@@ -1,6 +1,6 @@
 # Yet Another Sudoku Solver
 
-An attempt to solve our friendly neighbourhood Suduko puzzle using constraint satisfaction problem solving techniques.
+An attempt to solve a Suduko puzzle using constraint satisfaction problem solving techniques.
 
 #### Techniques used:
 1. Constraint Propagation
@@ -13,4 +13,3 @@ Adapted from Peter Norvig's article on solving Sudoku puzzles.
 #### What I learned:
 * Implementing a cool CSP problem.
 * Using OOP techniques (well?).
-* Using Java was not a great choice for this problem.
