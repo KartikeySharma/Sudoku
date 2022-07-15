@@ -1,4 +1,4 @@
-# Yet Another Sudoku Solver
+# Sudoku (Java)
 
 An attempt to solve a Suduko puzzle using constraint satisfaction problem solving techniques.
 
